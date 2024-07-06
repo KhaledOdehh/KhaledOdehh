@@ -1,9 +1,14 @@
 ![cover](https://github.com/KhaledOdehh/KhaledOdehh/assets/162580757/8cb2edf2-e3f2-431c-8e28-98c20faba645)
 
 # Hi, welcome to my GitHub! 👋
-## 🚀 About Me
-
 I'm a full-stack web developer...
+<ul>
+  <li> I’m currently working on something cool 😍</li>
+  <li> I’m currently learning Redux & Postgresql  💻</li>
+  <li> Ask me about anything, I am happy to help❔❗</li>
+
+</ul>
+
 ## ⚒️ Skills
 #### 🏎️ Programming Languages
 <img src="https://camo.githubusercontent.com/77a94341662845d3740986b84d8219c0fd4a0a9e4af8e5411c24cec0faee2129/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" alt="image" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%;">
@@ -29,11 +34,15 @@ I'm a full-stack web developer...
 <img src="https://camo.githubusercontent.com/4ae569342c64ecd9f0d7e7cbed78fffcca6a0f427e8efb4297c1d357dfb09074/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="image" data-canonical-src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></p>
 
 ## 📈 Stats
-<p align="center">
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhaledOdehh&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="KhaledOdehh stats card" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledOdehh&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="KhaledOdehh stats card" width="415" />  </p>
 
 ## Connect with me
 <p>
-<a href="www.linkedin.com/in/khaledodehh" rel="nofollow"><img alt="Linkedin" src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="mailto:khaled.awd.odeh@gmail.com"><img alt="Email" src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a></p>
+<a href="https://www.linkedin.com/in/khaledodehh" rel="nofollow">
+  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="mailto:khaled.awd.odeh@gmail.com"><img alt="Email" src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://github.com/khaledodehh?tab=follow"><img alt="Github" src="https://camo.githubusercontent.com/e8608a6316b9d88ea49559b15837c90b1c14fb172ca6743b50150cd54f208e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.canva.com/design/DAGJuq_Qmeo/0oZK2VnYmqvLA1_tupMOEA/view?utm_content=DAGJuq_Qmeo&utm_campaign=designshare&utm_medium=link&utm_source=editor" rel="nofollow"><img src="https://camo.githubusercontent.com/64f830c2deaf2231644d3c583d38133fa3847929b886fb3d893c5546a46f6485/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d652d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d726561642d7468652d646f6373266c6f676f436f6c6f723d7768697465" alt="resume" data-canonical-src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
